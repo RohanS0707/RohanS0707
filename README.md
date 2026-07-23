@@ -5,7 +5,7 @@
 ### 🚀 Software Developer | Data Analyst | AI & Machine Learning Enthusiast
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Software+Developer;Data+Analyst;AI+%26+Machine+Learning+Enthusiast;Backend+Developer;Open+Source+Contributor;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Software+Developer;Backend+Developer;Data+Analyst;AI+%26+Machine+Learning+Enthusiast;FastAPI+%7C+Django+%7C+React;Always+Learning+New+Technologies"/>
 </p>
 
 <p align="center">
@@ -35,20 +35,21 @@
 💼 Open to
 
 - Software Developer
+- Backend Developer
 - Data Analyst
 - Data Engineer
 - AI / Machine Learning Engineer
 
-💡 Passionate about building scalable software, AI-powered applications, and data-driven solutions.
+💡 Passionate about building scalable software, AI-powered applications, backend systems, automation tools, and data-driven solutions.
 
 🌱 Currently Learning
 
-- Cloud Computing
 - AWS
 - Docker
-- DevOps
+- FastAPI
 - Data Engineering
 - System Design
+- Generative AI & LLMs
 
 ---
 
@@ -69,7 +70,7 @@
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,nodejs"/>
+<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs"/>
 </p>
 
 ### Database
@@ -96,11 +97,13 @@
 
 <p>
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
-
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
 
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+
 <img src="https://img.shields.io/badge/XGBoost-EA4335?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge"/>
 
 </p>
 
@@ -115,32 +118,65 @@
 # 🚀 Featured Projects
 
 ### 🛡️ AEGIS AI
-AI-powered Intrusion Detection System using **Federated Learning**, **XGBoost**, **Python**, and **Django**.
+AI-powered Intrusion Detection System using **Federated Learning**, **XGBoost**, **Python**, and **Django** for intelligent real-time cyber threat detection.
+
+**Tech:** Python • Django • XGBoost • Federated Learning • Scapy • SQL
 
 ---
 
 ### 🌾 Agro Analytics
-Smart Agriculture Platform with **Django**, **React**, **Machine Learning**, and **Weather APIs**.
+Smart Agriculture Platform providing crop recommendations, weather forecasting, and analytics using Machine Learning and external APIs.
+
+**Tech:** Django • React • Machine Learning • Weather API • MySQL
 
 ---
 
-### 🧬 Genomic Disease Prediction
-Deep Learning model for disease prediction using **CNN** and **MobileNetV2**.
+### 💼 Company Lead Finder
+FastAPI-powered lead generation tool that discovers businesses using the Google Places API and exports company information to Excel.
+
+**Features**
+
+- Company Search
+- Website
+- Phone Number
+- Address
+- Google Rating
+- Excel Export
+
+**Tech:** FastAPI • Python • Google Places API • Pandas • OpenPyXL
+
+---
+
+### 💼 JobRadar – Job Search Portal
+Modern React application that helps users discover role-based job opportunities with a clean and responsive interface.
+
+**Tech:** React • JavaScript • HTML • CSS
+
+---
+
+### 🧬 Genomic Disease Predictive Model for Endometrial Cancer
+Deep Learning-powered medical image classification system using **MobileNetV2**, achieving **92% accuracy** with an interactive **Streamlit** web application.
+
+**Tech:** Python • TensorFlow • MobileNetV2 • Streamlit • OpenCV
+
+---
+
+### 📝 Ink2Marks
+AI-powered answer sheet evaluation system using OCR and NLP to intelligently assess handwritten responses.
+
+**Tech:** Python • Django • Google Vision API • NLP • Machine Learning
 
 ---
 
 ### 📊 Bank Analytics Dashboard
-Interactive **Power BI Dashboard** with business insights and KPI visualization.
+Interactive Power BI dashboard for banking analytics, KPI tracking, and business insights.
+
+**Tech:** Power BI • SQL • Excel
 
 ---
 
 ### 💻 Python DSA
-Data Structures & Algorithms implemented in Python.
-
----
-
-### 📈 SQL Analytics
-Advanced SQL queries and business case studies.
+Collection of Data Structures & Algorithms implemented in Python with optimized solutions.
 
 ---
 
@@ -148,9 +184,9 @@ Advanced SQL queries and business case studies.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RohanS0707&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RohanS0707&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanS0707&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanS0707&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -160,7 +196,7 @@ Advanced SQL queries and business case studies.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanS0707&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=RohanS0707&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -170,7 +206,7 @@ Advanced SQL queries and business case studies.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RohanS0707&theme=tokyonight&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=RohanS0707&theme=tokyonight&no-frame=true&column=4"/>
 
 </div>
 
@@ -202,6 +238,6 @@ Advanced SQL queries and business case studies.
 
 <div align="center">
 
-### ⭐ Building Scalable Software • Data-Driven Solutions • AI Applications ⭐
+### ⭐ Building Scalable Software • Backend Systems • AI Applications • Data-Driven Solutions ⭐
 
 </div>
