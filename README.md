@@ -101,6 +101,14 @@ I enjoy turning ideas into working solutions—from developing APIs and database
 
 ## 🚀 Featured Projects
 
+### 🛒 [E-Commerce Data Engineering Pipeline](https://github.com/RohanS0707/ecommerce-data-engineering-pipeline)
+
+A complete Python and PySpark medallion pipeline that ingests synthetic customer, product, order, and payment data; validates and separates rejected records; and builds a PostgreSQL star schema with revenue, AOV, and customer lifetime value analytics.
+
+**Tech:** Python · PySpark · SQL · PostgreSQL · Docker · Power BI
+
+---
+
 ### 📚 [RAG-Based Document Assistant](https://github.com/RohanS0707/RAG-Based-Document-Assistant)
 
 An LLM-powered document question-answering assistant built using **Retrieval-Augmented Generation (RAG)**. The application processes user-provided documents, retrieves relevant context for a query, and uses that context to generate grounded responses.
