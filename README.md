@@ -2,185 +2,210 @@
 
 # Hi 👋, I'm Rohan Shinde
 
-### 🚀 Software Developer | Data Analyst | AI & Machine Learning Enthusiast
+### Software Developer | Python & Backend Developer | AI/GenAI Engineer
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Software+Developer;Backend+Developer;Data+Analyst;AI+%26+Machine+Learning+Enthusiast;FastAPI+%7C+Django+%7C+React;Always+Learning+New+Technologies"/>
+Building backend systems, intelligent AI applications, and data-driven solutions.
+
+<p>
+  <a href="https://www.linkedin.com/in/rohan-shinde-507a9b23a">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rohanshinde0702@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=RohanS0707&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
 </p>
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/rohan-shinde-507a9b23a">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:rohanshinde0702@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=RohanS0707&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
-
-</p>
+📍 Pune, Maharashtra, India  
+🎓 MCA Graduate — 2026  
+💼 Open to Software Development, Python/Backend, AI/ML, GenAI/LLM, and Data Engineering opportunities
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-🎓 MCA Graduate
+I'm an MCA graduate passionate about developing practical software solutions that combine **backend engineering, AI, and data-driven problem solving**.
 
-📍 Pune, Maharashtra, India
+I enjoy working across the development lifecycle—from designing APIs and building backend logic to integrating machine learning models and creating user-friendly applications.
 
-💼 Open to
-
-- Software Developer
-- Backend Developer
-- Data Analyst
-- Data Engineer
-- AI / Machine Learning Engineer
-
-💡 Passionate about building scalable software, AI-powered applications, backend systems, automation tools, and data-driven solutions.
-
-🌱 Currently Learning
-
-- AWS
-- Docker
-- FastAPI
-- Data Engineering
-- System Design
-- Generative AI & LLMs
+- 💻 Interested in **Software Development, Python Development, and Backend Engineering**
+- 🤖 Building applications using **Generative AI, LLMs, and Retrieval-Augmented Generation (RAG)**
+- 📊 Interested in **Data Engineering, analytics, and automation**
+- 🧠 Hands-on experience with Python, Django, FastAPI, React, SQL, and machine learning
+- 🌱 Currently strengthening my skills in AWS, Docker, System Design, and production-ready AI applications
 
 ---
 
-# 🚀 Tech Stack
+## 🎯 Roles I'm Interested In
+
+- Software Developer / Software Engineer
+- Python Developer
+- Backend Developer
+- AI / Machine Learning Engineer
+- Generative AI / LLM Engineer
+- Data Engineer
+- Full-Stack Developer
+
+---
+
+## 🛠️ Tech Stack
 
 ### Programming Languages
-
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,mysql"/>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript"/>
 </p>
+
+### Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs"/>
+</p>
+
+- REST API Development
+- Backend Application Development
+- API Integration
+- Authentication and Database Integration
 
 ### Frontend
-
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap"/>
 </p>
 
-### Backend
-
+### Databases
 <p>
-<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
 </p>
 
-### Database
-
+### AI, Machine Learning & GenAI
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-LLM%20Applications-7B2CBF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-5A189A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-ML%20Modeling-EA4335?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
 ### Data Analytics
-
 <p>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
-
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
-### AI & Machine Learning
-
+### Tools & Platforms
 <p>
-
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
-
-<img src="https://img.shields.io/badge/XGBoost-EA4335?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge"/>
-
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-### 🛡️ AEGIS AI
-AI-powered Intrusion Detection System using **Federated Learning**, **XGBoost**, **Python**, and **Django** for intelligent real-time cyber threat detection.
+### 📚 RAG-Based Document Assistant
+**LLM-powered document question-answering application using Retrieval-Augmented Generation (RAG).**
+
+The application processes user-provided documents, retrieves relevant context, and uses that context to generate grounded answers to user questions. The project explores how retrieval can improve the relevance and reliability of responses from LLM-based applications.
+
+**Key Features**
+- Document-based question answering
+- Retrieval of relevant context for user queries
+- Context-grounded response generation
+- Modular RAG pipeline
+- Application interface for interacting with documents
+
+**Tech:** Python • LLMs • RAG • Document Processing • Retrieval Pipeline
+
+🔗 [View Project on GitHub](https://github.com/RohanS0707/RAG-Based-Document-Assistant)
+
+---
+
+### 📝 Ink2Marks — AI-Assisted Paper Evaluation
+An AI-assisted paper evaluation tool that processes scanned question papers and answer sheets using computer vision and OCR, then generates question-wise marks and feedback for teacher review.
+
+**Key Features**
+- Image preprocessing and cleanup using OpenCV
+- OCR-based text extraction from scanned answer sheets
+- Question-wise answer evaluation workflow
+- AI-generated marks suggestions and feedback
+- Teacher review before finalizing evaluation
+
+**Tech:** Python • OpenCV • OCR • Google Vision API • NLP • AI-assisted Evaluation
+
+🔗 [View Project on GitHub](https://github.com/RohanS0707/Ink2Marks-AI-Paper-Evaluation)
+
+---
+
+### 🛡️ AEGIS AI — Intelligent Intrusion Detection System
+AI-powered intrusion detection system designed to identify suspicious network activity using machine learning and cybersecurity techniques.
+
+**Key Features**
+- Network traffic analysis
+- ML-based threat classification using XGBoost
+- Packet analysis with Scapy
+- Django-based application backend
+- Exploration of federated learning for distributed model training
 
 **Tech:** Python • Django • XGBoost • Federated Learning • Scapy • SQL
 
 ---
 
-### 🌾 Agro Analytics
-Smart Agriculture Platform providing crop recommendations, weather forecasting, and analytics using Machine Learning and external APIs.
+### 🌾 Agro Analytics — Smart Agriculture Platform
+A smart agriculture platform that combines machine learning and external APIs to provide data-driven insights for agricultural decision-making.
 
-**Tech:** Django • React • Machine Learning • Weather API • MySQL
+**Key Features**
+- Crop recommendation
+- Weather information integration
+- ML-powered agricultural insights
+- Web application for accessing recommendations
+
+**Tech:** Python • Django • React • Machine Learning • APIs • MySQL
 
 ---
 
 ### 💼 Company Lead Finder
-FastAPI-powered lead generation tool that discovers businesses using the Google Places API and exports company information to Excel.
+A FastAPI-based lead generation tool that discovers businesses using the Google Places API and exports relevant company information.
 
-**Features**
+**Key Features**
+- Search for businesses by location or category
+- Retrieve company website, phone, address, and rating
+- Export collected business information to Excel
 
-- Company Search
-- Website
-- Phone Number
-- Address
-- Google Rating
-- Excel Export
-
-**Tech:** FastAPI • Python • Google Places API • Pandas • OpenPyXL
+**Tech:** Python • FastAPI • Google Places API • Pandas • OpenPyXL
 
 ---
 
-### 💼 JobRadar – Job Search Portal
-Modern React application that helps users discover role-based job opportunities with a clean and responsive interface.
+### 💻 JobRadar — Job Search Portal
+A React-based job search application designed to help users discover role-based job opportunities through a clean and responsive interface.
 
 **Tech:** React • JavaScript • HTML • CSS
 
 ---
 
-### 🧬 Genomic Disease Predictive Model for Endometrial Cancer
-Deep Learning-powered medical image classification system using **MobileNetV2**, achieving **92% accuracy** with an interactive **Streamlit** web application.
+### 🧬 Genomic Disease Predictive Model
+Deep learning-based medical image classification project focused on endometrial cancer prediction using MobileNetV2 and an interactive Streamlit application.
 
 **Tech:** Python • TensorFlow • MobileNetV2 • Streamlit • OpenCV
 
 ---
 
-### 📝 Ink2Marks
-AI-powered answer sheet evaluation system using OCR and NLP to intelligently assess handwritten responses.
-
-**Tech:** Python • Django • Google Vision API • NLP • Machine Learning
-
----
-
 ### 📊 Bank Analytics Dashboard
-Interactive Power BI dashboard for banking analytics, KPI tracking, and business insights.
+Interactive Power BI dashboard for exploring banking data, tracking KPIs, and presenting business insights.
 
 **Tech:** Power BI • SQL • Excel
 
 ---
 
-### 💻 Python DSA
-Collection of Data Structures & Algorithms implemented in Python with optimized solutions.
+### 🐍 Python DSA
+A collection of Data Structures and Algorithms implemented in Python, with a focus on problem-solving and optimized solutions.
+
+**Tech:** Python • Data Structures • Algorithms
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -192,7 +217,7 @@ Collection of Data Structures & Algorithms implemented in Python with optimized 
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <div align="center">
 
@@ -202,7 +227,7 @@ Collection of Data Structures & Algorithms implemented in Python with optimized 
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -212,7 +237,7 @@ Collection of Data Structures & Algorithms implemented in Python with optimized 
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -222,22 +247,20 @@ Collection of Data Structures & Algorithms implemented in Python with optimized 
 
 ---
 
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="mailto:rohanshinde0702@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/rohan-shinde-507a9b23a">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
+## 📫 Let's Connect
 
 <div align="center">
 
-### ⭐ Building Scalable Software • Backend Systems • AI Applications • Data-Driven Solutions ⭐
+<a href="https://www.linkedin.com/in/rohan-shinde-507a9b23a">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rohanshinde0702@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### ⭐ Building Backend Systems • AI Applications • Intelligent Software • Data-Driven Solutions
 
 </div>
