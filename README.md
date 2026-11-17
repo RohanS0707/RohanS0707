@@ -64,6 +64,9 @@ I enjoy turning ideas into working solutions—from developing APIs and database
 
 `REST APIs` · `Backend Development` · `API Integration` · `Authentication`
 
+### Testing & Quality Engineering
+
+`Playwright` · `End-to-End Testing` · `REST API Testing` · `Postman` · `SQL / Database Validation` · `Apache JMeter (Performance Testing)` · `Test Case Design` · `GitHub Actions CI`
 ### Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" alt="HTML, CSS, React, Bootstrap"/>
@@ -101,6 +104,21 @@ I enjoy turning ideas into working solutions—from developing APIs and database
 
 ## 🚀 Featured Projects
 
+### 🛍️ [Playwright E-Commerce Test Automation](https://github.com/RohanS0707/playwright-ecommerce-test-automation)
+
+A JavaScript and Playwright end-to-end automation framework for e-commerce workflows, including authentication, product inventory, cart management, and checkout. Uses Page Object Model, reusable test data, cross-browser projects, failure diagnostics, and GitHub Actions.
+
+**Tech:** Playwright · JavaScript · Node.js · Page Object Model · GitHub Actions
+
+---
+
+### 🔌 [REST API, MySQL & Performance Testing Framework](https://github.com/RohanS0707/rest-api-mysql-performance-testing)
+
+A sample Express REST API and testing framework for product CRUD, bearer-token authorization, input validation, and API-to-MySQL persistence checks. Includes Playwright API tests, a Postman collection, a JMeter load-test plan, Docker Compose, and GitHub Actions CI.
+
+**Tech:** Playwright API · Postman · JavaScript · Node.js · Express · MySQL · SQL · Apache JMeter · Docker · GitHub Actions
+
+---
 ### 🛒 [E-Commerce Data Engineering Pipeline](https://github.com/RohanS0707/ecommerce-data-engineering-pipeline)
 
 A complete Python and PySpark medallion pipeline that ingests synthetic customer, product, order, and payment data; validates and separates rejected records; and builds a PostgreSQL star schema with revenue, AOV, and customer lifetime value analytics.
@@ -238,3 +256,4 @@ A collection of Data Structures and Algorithms implemented in Python, focused on
 *Building reliable software, intelligent AI applications, and practical solutions.*
 
 </div>
+
